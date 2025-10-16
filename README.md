@@ -17,14 +17,20 @@
     <b>  Lenguajes:</b>
 </p>
 
-<p> 
-  <a href="https://www.w3.org/java/" target="_blank"> 
-  <a href="https://emoji.gg/emoji/java"><img src="https://cdn3.emoji.gg/emojis/java.png" width="50px" height="50px" alt="java"></a>
-  </a> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
-  </a> 
-    <a href="https://www.w3schools.com/csharp" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/>
-  </a>
-</p>
+<a href="https://www.javascript.com/" target="_blank">
+  <img src="https://es.dreamstime.com/javascript-logo-editorial-ilustrativo-sobre-fondo-blanco-illustrative-white-background-eps-descargar-vector-jpeg-banner-image208329455.jpg" 
+       width="50" height="50" alt="JavaScript">
+</a>
+
+<a href="https://www.w3.org/java/" target="_blank"> 
+  <img src="https://cdn3.emoji.gg/emojis/java.png" width="50" height="50" alt="Java">
+</a>
+
+<a href="https://www.python.org" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python"/> 
+</a>
+
+<a href="https://www.w3schools.com/csharp" target="_blank"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#"/>
+</a>
+
