@@ -17,11 +17,6 @@
     <b>  Lenguajes:</b>
 </p>
 
-<a href="https://www.javascript.com/" target="_blank">
-  <img src="https://es.dreamstime.com/javascript-logo-editorial-ilustrativo-sobre-fondo-blanco-illustrative-white-background-eps-descargar-vector-jpeg-banner-image208329455.jpg" 
-       width="50" height="50" alt="JavaScript">
-</a>
-
 <a href="https://www.w3.org/java/" target="_blank"> 
   <img src="https://cdn3.emoji.gg/emojis/java.png" width="50" height="50" alt="Java">
 </a>
