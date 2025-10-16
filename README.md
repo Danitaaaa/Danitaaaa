@@ -31,3 +31,10 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="javascript"/>
 </a>
+<a href="https://www.w3.org/html/" target="_blank" title="HTML">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="50px" heigh="50" alt="HTML"/>
+</a>
+
+<a href="https://www.w3.org/css/" target="_blank" title="CSS" >
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="50px" heigh="50" alt="CSS"/>
+</a>
